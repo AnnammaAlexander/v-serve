@@ -1,0 +1,12 @@
+.bannerimg {
+    
+        background: linear-gradient(190deg, rgb(78, 155, 221), transparent), url('https://images.unsplash.com/photo-1566566220367-af8d77269124?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=olivia-anne-snyder-o-ADhD9o3Bg-u');
+        background-size: cover;
+        background-position: center;
+       
+    
+    
+    
+     /* Optional: Center the image horizontally and vertically */
+    /* additional background properties can be added here */
+}
